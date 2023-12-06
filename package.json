@@ -4,8 +4,14 @@
   "devDependencies": {
     "lerna": "^4.0.0"
   },
-  "workspaces": [
-    "packages/*",
-    "examples/react-web-l10n-example"
-  ]
+  "workspaces": {
+    "packages": [
+      "packages/*",
+      "examples/react-web-l10n-example"
+    ],
+    "nohoist": [
+      "**/bootstrap"
+    ]
+  },
+  "version": "1.0.1"
 }
