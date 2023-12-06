@@ -1,4 +1,6 @@
+// @ts-nocheck
 import * as React from 'react';
+import module2 from 'yarn-module2';
 import './index.css';
 
 class App extends React.Component {
@@ -8,6 +10,7 @@ class App extends React.Component {
     }
 
     componentDidMount(): void {
+        console.log('module2', module2())
     }
 
     render() {
