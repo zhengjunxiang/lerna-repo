@@ -1,8 +1,7 @@
 {
-  "name": "yarn-module1",
+  "name": "@lem92/yarn-module1",
   "version": "1.1.0",
   "main": "index.js",
   "author": "zhengjunxiang",
-  "license": "MIT",
-  "gitHead": "451ce60eed5815b3ca6b5cbdbc73111e05cc3d4d"
+  "license": "MIT"
 }

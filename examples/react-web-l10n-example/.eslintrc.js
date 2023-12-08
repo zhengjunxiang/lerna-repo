@@ -7,4 +7,3 @@ module.exports = {
     },
     ignorePatterns: ["dist", "webpack.config.js"],
   };
-  

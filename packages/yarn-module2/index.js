@@ -1,4 +1,4 @@
-const yarnModule1 = require('yarn-module1');
+const yarnModule1 = require('@lem92/yarn-module1');
 
 function yarnModule2() {
   console.log('yarn-module2');

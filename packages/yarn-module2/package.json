@@ -1,5 +1,5 @@
 {
-  "name": "yarn-module2",
+  "name": "@lem92/yarn-module2",
   "version": "1.1.0",
   "main": "index.js",
   "author": "zhengjunxiang",
@@ -8,7 +8,6 @@
     "test": "node index.js"
   },
   "dependencies": {
-    "yarn-module1": "^1.1.0"
-  },
-  "gitHead": "451ce60eed5815b3ca6b5cbdbc73111e05cc3d4d"
+    "@lem92/yarn-module1": "^1.1.0"
+  }
 }

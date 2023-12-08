@@ -1,6 +1,6 @@
 // @ts-nocheck
 import * as React from 'react';
-import module2 from 'yarn-module2';
+import module2 from '@lem92/yarn-module2';
 import './index.css';
 
 class App extends React.Component {
